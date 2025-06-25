@@ -5,4 +5,4 @@
 - 🐣 I want to learn C#, C++, Java, game dev
 
 
-![ascii-art](https://github.com/user-attachments/assets/624714b6-4276-4f64-ade4-0070c7004144)
+
