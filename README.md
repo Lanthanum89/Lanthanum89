@@ -14,18 +14,6 @@
 <a href="https://linkedin.com/in/laura-norwood-4024a525b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura-norwood-4024a525b/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" <a href=https://skillicons.dev/icons?i=js,html,css,py,pycharm,linux,flask,github,git,postman,sqlite,vscode,windows)</a>
-
-
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lanthanum89&" alt="lanthanum89" /></p>
-
-<h3 align="left">Hobbies:</h3>
-[![My Hobbies](<a href=https://skillicons.dev/icons?i=discord,gamemakerstudio,instagram,mint,robloxstudio,unreal)](https://skillicons.dev)</a>
-
-
 <p align="left">
 
 ![Codewars](https://github.r2v.ch/codewars?user=Lanthanum89&stroke=PINK)
