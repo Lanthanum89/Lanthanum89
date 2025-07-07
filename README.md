@@ -13,19 +13,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.flaticon.com/free-icons/python-file" title="python file icons">Python file icons created by Smashicons - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/mysql" title="mysql icons">Mysql icons created by Pixel perfect - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/api" title="api icons">Api icons created by juicy_fish - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/studio" title="studio icons">Studio icons created by Vector Stall - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/linux" title="linux icons">Linux icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/ubuntu" title="ubuntu icons">Ubuntu icons created by Pixel perfect - Flaticon</a>
+
 
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lanthanum89&" alt="lanthanum89" /></p>
 
 <h3 align="left">Hobbies:</h3>
-<a href="https://www.flaticon.com/free-icons/steam" title="steam icons">Steam icons created by pocike - Flaticon</a>
+
 
 
 <p align="left">
