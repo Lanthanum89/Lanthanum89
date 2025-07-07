@@ -1,4 +1,7 @@
 
+![header](https://github.com/user-attachments/assets/b298e7a9-6e19-4e99-8e09-f11620636efd)
+
+
 - 🔭 Studying a Code First Girls Degree on the Data Science Stream
 - 🌱 Learning Python, MySQL
 - ⚽ Playing around with simple Python games, APIs, HTML/CSS/Javascript
