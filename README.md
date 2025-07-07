@@ -12,6 +12,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<i class="devicon-python-plain-wordmark colored"></i>
+<i class="devicon-mysql-plain-wordmark"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+          
+          
+          
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=Lanthanum89&stroke=PINK)
