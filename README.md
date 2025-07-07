@@ -15,8 +15,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-[![My Skills](<a href=https://skillicons.dev/icons?i=js,html,css,py,pycharm,linux,flask,github,git,postman,sqlite,vscode,windows)](https://skillicons.dev)</a>
+<p align="left" <a href=https://skillicons.dev/icons?i=js,html,css,py,pycharm,linux,flask,github,git,postman,sqlite,vscode,windows)</a>
 
 
 </p>
