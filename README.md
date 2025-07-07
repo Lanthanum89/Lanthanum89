@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,pycharm,linux,flask,github,git,postman,sqlite,vscode,windows)](https://skillicons.dev)
+[![My Skills](<a href=https://skillicons.dev/icons?i=js,html,css,py,pycharm,linux,flask,github,git,postman,sqlite,vscode,windows)](https://skillicons.dev)</a>
 
 
 </p>
@@ -24,7 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lanthanum89&" alt="lanthanum89" /></p>
 
 <h3 align="left">Hobbies:</h3>
-[![My Hobbies](https://skillicons.dev/icons?i=discord,gamemakerstudio,instagram,mint,robloxstudio,unreal)](https://skillicons.dev)
+[![My Hobbies](<a href=https://skillicons.dev/icons?i=discord,gamemakerstudio,instagram,mint,robloxstudio,unreal)](https://skillicons.dev)</a>
 
 
 <p align="left">
