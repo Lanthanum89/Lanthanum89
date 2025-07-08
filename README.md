@@ -1,5 +1,5 @@
 
-![1](https://github.com/user-attachments/assets/ac8fbbd6-17d2-4f7c-aa5c-be89b5cd69e4)
+![Hi! I’m Laura](https://github.com/user-attachments/assets/3a640c94-7e8b-412b-8d36-484afb6ac2f3)
 
 - 🔭 Studying a Code First Girls Degree on the Data Science Stream
 - 🌱 Learning Python, MySQL
