@@ -5,7 +5,8 @@
 - 🌱 Learning Python, MySQL
 - ⚽ Playing around with simple Python games, APIs, HTML/CSS/Javascript
 - 🐣 I want to learn C#, C++, Java, game dev
-- 🥼 Fun fact: I have a degree in Chemistry 
+- 🥼 Fun fact: I have a degree in Chemistry
+  
 ![2](https://github.com/user-attachments/assets/e677bd4c-fd13-45f1-b01a-6bd5ce87aff5)
 
 <h3 align="left">Connect with me:</h3>
