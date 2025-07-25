@@ -1,5 +1,5 @@
 
-![Hi! I’m Laura](https://github.com/user-attachments/assets/9f7862a2-1ec7-4a44-9bbf-611be1f94139)
+<img width="650" height="195" alt="Hi! I’m Laura" src="https://github.com/user-attachments/assets/bd96c2cc-d434-4c6e-a58e-9689de21dba5" />
 
 
 - 🔭 Studying a Code First Girls Degree on the Data Science Stream
