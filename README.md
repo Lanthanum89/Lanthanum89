@@ -1,5 +1,6 @@
 
-![Hi! I’m Laura](https://github.com/user-attachments/assets/3a640c94-7e8b-412b-8d36-484afb6ac2f3)
+![Hi! I’m Laura](https://github.com/user-attachments/assets/9f7862a2-1ec7-4a44-9bbf-611be1f94139)
+
 
 - 🔭 Studying a Code First Girls Degree on the Data Science Stream
 - 🌱 Learning Python, MySQL
