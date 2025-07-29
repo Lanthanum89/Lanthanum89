@@ -3,9 +3,10 @@
 
 
 - 🔭 Studying a Code First Girls Degree on the Data Science Stream
-- 🌱 Learning Python, MySQL
-- ⚽ Playing around with simple Python games, APIs, HTML/CSS/Javascript
-- 🐣 I want to learn C#, C++, Java, game dev
+- 🌱 Learning Python, MySQL, Pandas, Numpy, Matplotlib with Code First Girls
+- ⚽ Playing around with simple Python games, APIs, HTML/CSS/Javascript in my free time
+- 🐣 Dipping my toes into game dev engines like Unity, Unreal, Godot
+- 🌕 Also dabbling in WearOS watch faces and simple Android apps
 - 🥼 Fun fact: I have a degree in Chemistry
   
 ![icons](https://github.com/user-attachments/assets/04c0dd03-bdd2-46b4-ba0e-fbed759eb776)
