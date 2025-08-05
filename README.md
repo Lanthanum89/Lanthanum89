@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Laura</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lanthanum89&label=Profile%20views&color=0e75b6&style=flat" alt="lanthanum89" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lanthanum89" alt="lanthanum89" /></a> </p>
 
-- 🔭 Studying a Code First Girls Degree on the Data Science Stream
+- 🔭 Studying a Code First Girls Degree on the **Data Science** Stream
 - 🌱 Learning Python, MySQL, Pandas, Numpy, Matplotlib with Code First Girls
 - ⚽ Playing around with simple Python games, APIs, HTML/CSS/Javascript in my free time
 - 🐣 Dipping my toes into game dev engines like Unity, Unreal, Godot
@@ -19,6 +21,7 @@
 ![Codewars](https://github.r2v.ch/codewars?user=Lanthanum89&stroke=PINK)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lanthanum89&show_icons=true&locale=en&layout=compact" alt="lanthanum89" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lanthanum89&show_icons=true&locale=en" alt="lanthanum89" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lanthanum89&" alt="lanthanum89" /></p>
 
 
 
