@@ -8,6 +8,7 @@
 - 🐣 Dipping my toes into game dev engines like Unity, Unreal, Godot
 - 🌕 Also dabbling in WearOS watch faces and simple Android apps
 - 🥼 Fun fact: I have a degree in Chemistry, used to work as an accountant, and now I'm pivoting again into Data Science after a career break to raise my family! 👨‍👩‍👧‍👦
+- 🌻 Weird fact: I once won a poetry competition on the subject of hybrid buses... 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
