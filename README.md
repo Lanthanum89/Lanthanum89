@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lanthanum89" alt="lanthanum89" /></a> </p>
 
 - 🔭 Studying a Code First Girls Degree on the **Data Science** Stream
-- 🌱 Learning Python, MySQL, Pandas, Numpy, Matplotlib with Code First Girls
+- 🌱 Learning Python, MySQL, Pandas, NumPy, Matplotlib with Code First Girls
 - ⚽ Playing around with simple Python games, APIs, HTML/CSS/Javascript in my free time
 - 🐣 Dipping my toes into game dev engines like Unity, Unreal, Godot
 - 🌕 Also dabbling in WearOS watch faces and simple Android apps
