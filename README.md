@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanthanum89&label=Profile%20views&color=0e75b6&style=flat" alt="lanthanum89" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lanthanum89" alt="lanthanum89" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lanthanum89" alt="lanthanum89"/></a> </p>
 
 - 🔭 Studying a Code First Girls Degree on the **Data Science** Stream
 - 🌱 Learning Python, MySQL, Pandas, NumPy, Matplotlib with Code First Girls
