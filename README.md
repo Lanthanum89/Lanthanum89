@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanthanum89&label=Profile%20views&color=0e75b6&style=flat" alt="lanthanum89" /> </p>
 
-- 🔭 Studying a Code First Girls Degree on the **Data Science** Stream
-- 🌱 Learning Python, MySQL, Pandas, NumPy, Matplotlib with Code First Girls
+- 🔭 Recently completed a Code First Girls Degree on the **Data Science** Stream
+- 🌱 Aced Python, MySQL, Pandas, NumPy, Matplotlib with Code First Girls
 - ⚽ Playing around with simple Python games, APIs, HTML/CSS/Javascript in my free time
+- 🥬 Learning C# and Javascript to increase my tech stack 
 - 🐣 Dipping my toes into game dev engines like Unity, Unreal, Godot
 - 🌕 Also dabbling in WearOS watch faces and simple Android apps
 - 🥼 Fun fact: I have a degree in Chemistry, used to work as an accountant, and now I'm pivoting again into Data Science after a career break to raise my family! 👨‍👩‍👧‍👦
