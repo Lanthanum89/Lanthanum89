@@ -7,7 +7,7 @@
 - ⚽ Playing around with simple Python games, APIs, HTML/CSS/Javascript in my free time
 - 🥬 Learning C# and Javascript to increase my tech stack 
 - 🐣 Dipping my toes into game dev engines like Unity, Unreal, Godot
-- 🌕 Also dabbling in WearOS watch faces and simple Android apps
+- 🌕 Also dabbling in WearOS watch faces and simple Android apps in Kotlin
 - 🥼 Fun fact: I have a degree in Chemistry, used to work as an accountant, and now I'm pivoting again into Data Science after a career break to raise my family! 👨‍👩‍👧‍👦
 - 🌻 Weird fact: I once won a poetry competition on the subject of hybrid buses...
 
