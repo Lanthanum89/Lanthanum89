@@ -25,7 +25,7 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=Lanthanum89&stroke=PINK)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lanthanum89&show_icons=true&locale=en&layout=compact" alt="lanthanum89" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lanthanum89&show_icons=true&locale=en" alt="lanthanum89" /></p>
+
 
 
 
