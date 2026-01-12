@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanthanum89&label=Profile%20views&color=0e75b6&style=flat" alt="lanthanum89" /> </p>
 
+- 🔡 Data Analyst 
 - 🎓 Code First Girls Data Science Nanodegree Graduate
 - 🧠 Skilled in Python, SQL, Pandas, NumPy, Matplotlib, and scikit-learn with hands-on experience in data analysis, visualisation, and machine learning
 - ⚙️ Passionate about turning complex datasets into practical, data-driven insights through model development and automation
