@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanthanum89&label=Profile%20views&color=0e75b6&style=flat" alt="lanthanum89" /> </p>
 
-- 🔡 Data Analyst by day
-- 🎓 Code First Girls Data Science Nanodegree Graduate
+- 🔡 Junior Developer with a strong interest in data science, machine learning and statistically analysis. 
+- 🎓 Code First Girls Data Science Nanodegree Graduate / +Masters in Data for Business
 - 🧠 Skilled in Python, SQL, Pandas, NumPy, Matplotlib, and scikit-learn with hands-on experience in data analysis, visualisation, and machine learning
 - ⚙️ Passionate about turning complex datasets into practical, data-driven insights through model development and automation
 - 💻 Building data-driven web apps and APIs in my spare time (Python, Flask, HTML/CSS/JavaScript)
 - 🌱 Expanding my stack with C# and JavaScript, exploring ML deployment and full-stack integration
 - 🕹️ Experimenting with game analytics and development using Unity and Godot
 - 📊 Recent projects: F1 Lap Time Analyser, FPL Data Analyser, Spotify Stats Dashboard, and Video Gaming Hub API
-- 🧪 Background: Chemistry graduate turned Data Scientist, blending analytical precision with creative problem-solving
+- 🧪 Background: Chemistry graduate turned developer, blending analytical precision with creative problem-solving
 - 🌻 Fun fact: I once won a poetry competition about hybrid buses… 
 
 # Tech Stack
