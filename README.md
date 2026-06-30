@@ -2,15 +2,13 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanthanum89&label=Profile%20views&color=0e75b6&style=flat" alt="lanthanum89" /> </p>
 
-- 🔡 Software developer building data-driven systems and applications using Power Platform, Python, SQL, Javascript and APIs
+- 🔡 Power Platform Dev by day (Typescript, Dataverse, Power Automate Node.js), FOSS dev by night. 
 - ⭐️ Interested in data science, machine learning, game dev and statistical analysis
 - 🎓 Code First Girls Data Science Nanodegree Graduate / +Masters in Data for Business
 - 🧠 Skilled in Python, SQL, Pandas, NumPy, Matplotlib, and scikit-learn with hands-on experience in data analysis, visualisation, and machine learning
-- ⚙️ Passionate about turning complex datasets into practical, data-driven insights through model development and automation
-- 💻 Building data-driven web apps and APIs in my spare time (Python, Flask, HTML/CSS/JavaScript)
 - 🌱 Expanding my stack with C# and JavaScript, exploring ML deployment and full-stack integration
 - 🕹️ Experimenting with game analytics and development using Unity and Godot
-- 📊 Recent projects: F1 Lap Time Analyser, FPL Data Analyser, Spotify Stats Dashboard, and Video Gaming Hub API
+- 📊 Recent projects: Binary Clock, Swim Progression App, kawaii-inspired balloon popping children's game
 - 🧪 Background: Chemistry graduate turned developer, blending analytical precision with creative problem-solving
 - 🌻 Fun fact: I once won a poetry competition about hybrid buses… 
 
