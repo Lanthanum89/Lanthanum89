@@ -1,4 +1,6 @@
-## Power Platform Developer by day, hobbyist app and game dev by night.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lanthanum89&label=Profile%20views&color=0e75b6&style=flat" alt="lanthanum89" /> </p>
+
+## ⭐️ Power Platform Developer by day, hobbyist app and game dev by night.
 
 I build practical business tools, automation flows and data-driven apps using TypeScript, Dataverse, Power Automate, Node.js and the wider Power Platform. Outside work, I make small apps, experiments and games across Python, C#, JavaScript, Unity and Godot.
 
