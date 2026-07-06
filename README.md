@@ -1,22 +1,29 @@
-# 💫 About Me:
-Power Platform Developer by day, hobbyist app and game dev by night.
+## Power Platform Developer by day, hobbyist app and game dev by night.
+
 I build practical business tools, automation flows and data-driven apps using TypeScript, Dataverse, Power Automate, Node.js and the wider Power Platform. Outside work, I make small apps, experiments and games across Python, C#, JavaScript, Unity and Godot.
+
 I like projects that mix logic, data, UI polish and a bit of chaos.
-Interested in: data science, machine learning, statistical analysis, game dev, full-stack development
-Tech I use and explore:
+
+### Interested in
+Data science, machine learning, statistical analysis, game analytics, full-stack development.
+
+### Tech I use and explore
 Python · SQL · Pandas · NumPy · Matplotlib · scikit-learn
 TypeScript · JavaScript · C#
 Power Apps · Dataverse · Power Automate · Node.js
 Unity · Godot
-Recent projects:
 
-Binary Clock
-Swim Progression App
-Kawaii-inspired balloon-popping game for kids
-Assorted data, automation and UI experiments
+### Recent projects
+- Binary Clock
+- Swim Progression App
+- Kawaii-inspired balloon-popping game for kids
+- Assorted data, automation and UI experiments
 
-Background: Chemistry graduate turned developer, mixing analytical precision with creative problem-solving.
-Fun fact: once won a poetry competition about hybrid buses. Peak niche.
+### Background
+Chemistry graduate turned developer, mixing analytical precision with creative problem-solving.
+
+### Fun fact
+Once won a poetry competition about hybrid buses. Peak niche.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codermumuk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-norwood-4024a525b/) 
