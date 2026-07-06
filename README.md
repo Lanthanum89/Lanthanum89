@@ -7,12 +7,6 @@ I like projects that mix logic, data, UI polish and a bit of chaos.
 ### Interested in
 Data science, machine learning, statistical analysis, game analytics, full-stack development.
 
-### Tech I use and explore
-Python · SQL · Pandas · NumPy · Matplotlib · scikit-learn
-TypeScript · JavaScript · C#
-Power Apps · Dataverse · Power Automate · Node.js
-Unity · Godot
-
 ### Recent projects
 - Binary Clock
 - Swim Progression App
