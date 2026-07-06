@@ -1,6 +1,22 @@
 # 💫 About Me:
-Power Platform Developer by day, hobbyist app and game dev by night.<br><br>I work with TypeScript, Dataverse, Power Automate, Node.js and the wider Microsoft Power Platform, building practical business tools, automation flows and data-driven apps.<br><br>Outside work, I build small apps, experiments and games across Python, C#, JavaScript, Unity and Godot. I like projects that mix logic, data, UI polish and a bit of chaos.<br><br>Interested in data science, machine learning, statistical analysis, game analytics and full-stack development.<br><br>Tech I use and explore:<br>Python, SQL, Pandas, NumPy, Matplotlib, scikit-learn, TypeScript, JavaScript, C#, Power Apps, Dataverse, Power Automate, Node.js, Unity and Godot.<br><br>Recent projects:<br>Binary Clock, Swim Progression App, kawaii-inspired balloon popping children’s game, plus various data, automation and UI experiments.<br><br>Background:<br>Chemistry graduate turned developer, blending analytical precision with creative problem-solving.<br><br>Fun fact:<br>I once won a poetry competition about hybrid buses. Peak niche.<br>
+Power Platform Developer by day, hobbyist app and game dev by night.
+I build practical business tools, automation flows and data-driven apps using TypeScript, Dataverse, Power Automate, Node.js and the wider Power Platform. Outside work, I make small apps, experiments and games across Python, C#, JavaScript, Unity and Godot.
+I like projects that mix logic, data, UI polish and a bit of chaos.
+Interested in: data science, machine learning, statistical analysis, game dev, full-stack development
+Tech I use and explore:
+Python · SQL · Pandas · NumPy · Matplotlib · scikit-learn
+TypeScript · JavaScript · C#
+Power Apps · Dataverse · Power Automate · Node.js
+Unity · Godot
+Recent projects:
 
+Binary Clock
+Swim Progression App
+Kawaii-inspired balloon-popping game for kids
+Assorted data, automation and UI experiments
+
+Background: Chemistry graduate turned developer, mixing analytical precision with creative problem-solving.
+Fun fact: once won a poetry competition about hybrid buses. Peak niche.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codermumuk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-norwood-4024a525b/) 
@@ -12,9 +28,6 @@ Power Platform Developer by day, hobbyist app and game dev by night.<br><br>I wo
 ![](https://github-readme-stats.shion.dev/api?username=Lanthanum89&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Lanthanum89&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lanthanum89&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Lanthanum89&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
