@@ -2,12 +2,12 @@
 
 ## ⭐️ Power Platform Developer by day, hobbyist app and game dev by night.
 
-I build practical business tools, automation flows and data-driven apps using TypeScript, Dataverse, Power Automate, Node.js and the wider Power Platform. Outside work, I make small apps, experiments and games across Python, C#, JavaScript, Unity and Godot.
+I build practical business tools, automation flows and data-driven apps using TypeScript, Dataverse, Power Automate, Node.js and the wider Power Platform. Outside work, I make small apps, experiments and games across Python, C#, JavaScript, Unreal Engine and Godot.
 
-I like projects that mix logic, data, UI polish and a bit of chaos.
+I like projects that mix logic, data, UI polish and a bit of chaos. Open source enthusiast.
 
 ### Interested in
-Data science, machine learning, statistical analysis, game analytics, full-stack development.
+Data science, machine learning, statistical analysis, game dev, full-stack development.
 
 ### Recent projects
 - Binary Clock
