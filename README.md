@@ -7,7 +7,7 @@ I build practical business tools, automation flows and data-driven apps using Ty
 I like projects that mix logic, data, UI polish and a bit of chaos. Open source enthusiast.
 
 ### Interested in
-Data science, machine learning, statistical analysis, game dev, full-stack development.
+Data science, machine learning, statistical analysis, game dev, full-stack development and quantum computing. 
 
 ### Recent projects
 - Binary Clock
