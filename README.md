@@ -2,6 +2,26 @@
 
 ## ⭐️ Power Platform Developer by day, hobbyist app and game dev by night.
 
+```text
+ ___        ________   ___  ___   ________   ________                                 
+|\  \      |\   __  \ |\  \|\  \ |\   __  \ |\   __  \                                
+\ \  \     \ \  \|\  \\ \  \\\  \\ \  \|\  \\ \  \|\  \                               
+ \ \  \     \ \   __  \\ \  \\\  \\ \   _  _\\ \   __  \                              
+  \ \  \____ \ \  \ \  \\ \  \\\  \\ \  \\  \|\ \  \ \  \                             
+   \ \_______\\ \__\ \__\\ \_______\\ \__\\ _\ \ \__\ \__\                            
+    \|_______| \|__|\|__| \|_______| \|__|\|__| \|__|\|__|                            
+                                                                                      
+                                                                                      
+                                                                                      
+ ________    ________   ________   ___       __    ________   ________   ________     
+|\   ___  \ |\   __  \ |\   __  \ |\  \     |\  \ |\   __  \ |\   __  \ |\   ___ \    
+\ \  \\ \  \\ \  \|\  \\ \  \|\  \\ \  \    \ \  \\ \  \|\  \\ \  \|\  \\ \  \_|\ \   
+ \ \  \\ \  \\ \  \\\  \\ \   _  _\\ \  \  __\ \  \\ \  \\\  \\ \  \\\  \\ \  \ \\ \  
+  \ \  \\ \  \\ \  \\\  \\ \  \\  \|\ \  \|\__\_\  \\ \  \\\  \\ \  \\\  \\ \  \_\\ \ 
+   \ \__\\ \__\\ \_______\\ \__\\ _\ \ \____________\\ \_______\\ \_______\\ \_______\
+    \|__| \|__| \|_______| \|__|\|__| \|____________| \|_______| \|_______| \|_______|
+```
+
 I build practical business tools, automation flows and data-driven apps using TypeScript, Dataverse, Power Automate, Node.js and the wider Power Platform. Outside work, I make small apps, experiments and games across Python, C#, JavaScript, Unreal Engine and Godot.
 
 I like projects that mix logic, data, UI polish and a bit of chaos. Open source enthusiast.
@@ -35,14 +55,4 @@ Once won a poetry competition about hybrid buses...
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-```
-'##::::::::::'###::::'##::::'##:'########:::::'###::::
- ##:::::::::'## ##::: ##:::: ##: ##.... ##:::'## ##:::
- ##::::::::'##:. ##:: ##:::: ##: ##:::: ##::'##:. ##::
- ##:::::::'##:::. ##: ##:::: ##: ########::'##:::. ##:
- ##::::::: #########: ##:::: ##: ##.. ##::: #########:
- ##::::::: ##.... ##: ##:::: ##: ##::. ##:: ##.... ##:
- ########: ##:::: ##:. #######:: ##:::. ##: ##:::: ##:
-........::..:::::..:::.......:::..:::::..::..:::::..::
-```
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
