@@ -19,7 +19,7 @@ Data science, machine learning, statistical analysis, game dev, full-stack devel
 Chemistry graduate turned developer, mixing analytical precision with creative problem-solving.
 
 ### Fun fact
-Once won a poetry competition about hybrid buses. Peak niche.
+Once won a poetry competition about hybrid buses...
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codermumuk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-norwood-4024a525b/) 
@@ -35,4 +35,18 @@ Once won a poetry competition about hybrid buses. Peak niche.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+██╗      █████╗ ██╗   ██╗██████╗  █████╗
+██║     ██╔══██╗██║   ██║██╔══██╗██╔══██╗
+██║     ███████║██║   ██║██████╔╝███████║
+██║     ██╔══██║██║   ██║██╔══██╗██╔══██║
+███████╗██║  ██║╚██████╔╝██║  ██║██║  ██║
+╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+// aka
+
+██╗      █████╗ ███╗   ██╗████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗   ██╗███╗   ███╗ █████╗  █████╗
+██║     ██╔══██╗████╗  ██║╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║   ██║████╗ ████║██╔══██╗██╔══██╗
+██║     ███████║██╔██╗ ██║   ██║   ███████║███████║██╔██╗ ██║██║   ██║██╔████╔██║╚█████╔╝╚██████║
+██║     ██╔══██║██║╚██╗██║   ██║   ██╔══██║██╔══██║██║╚██╗██║██║   ██║██║╚██╔╝██║██╔══██╗ ╚═══██║
+███████╗██║  ██║██║ ╚████║   ██║   ██║  ██║██║  ██║██║ ╚████║╚██████╔╝██║ ╚═╝ ██║╚█████╔╝ █████╔╝
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚═╝ ╚════╝  ╚════╝
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
