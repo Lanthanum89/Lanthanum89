@@ -6,6 +6,8 @@ I build practical business tools, automation flows and data-driven apps using Ty
 
 I like projects that mix logic, data, UI polish and a bit of chaos. Open source enthusiast.
 
+Parent of a young child with Type 1 Diabetes. Interested in diabetes data, CGM integrations, and assistive tech for chronic condition management.
+
 ### Interested in
 Data science, machine learning, statistical analysis, game dev, full-stack development and quantum computing. 
 
